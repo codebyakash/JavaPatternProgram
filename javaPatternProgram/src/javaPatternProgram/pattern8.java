@@ -12,16 +12,16 @@ public static void main(String[] args) {
 		System.out.println();
 	}
 //	2nd method
-	int count=0;
-	for(int i=1;i<=50;i++) {
-		if(i%2==0) {
-			System.out.printf("%2d ",i);
-			count++;
-		}
-		if(count==5) {
-			System.out.println();
-			count=0;
-		}
-	}
+//	int count=0;
+//	for(int i=1;i<=50;i++) {
+//		if(i%2==0) {
+//			System.out.printf("%2d ",i);
+//			count++;
+//		}
+//		if(count==5) {
+//			System.out.println();
+//			count=0;
+//		}
+//	}
 }
 }
